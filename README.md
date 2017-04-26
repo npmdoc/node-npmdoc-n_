@@ -1,6 +1,6 @@
 # npmdoc-n_
 
-#### api documentation for  [n_ (v1.4.4)](https://github.com/borisdiakur/n_#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-n_.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-n_) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-n_.svg)](https://travis-ci.org/npmdoc/node-npmdoc-n_)
+#### basic api documentation for  [n_ (v1.4.4)](https://github.com/borisdiakur/n_#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-n_.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-n_) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-n_.svg)](https://travis-ci.org/npmdoc/node-npmdoc-n_)
 
 #### lodash REPL
 
